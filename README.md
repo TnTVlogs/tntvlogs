@@ -43,7 +43,7 @@ I specialize in creating software following principles that ensure long-term mai
 
 ## 📫 Let's Connect!
 
-*   💼 **LinkedIn:** [Your Profile Link](https://linkedin.com/in/yourprofile)
+*   💼 **LinkedIn:** [Sergi Dalmau](https://linkedin.com/in/sergidalmau0)
 *   🚀 I am always open to collaborating on challenging Backend projects or system architecture discussions.
 
 ---
